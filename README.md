@@ -1,6 +1,6 @@
 # Curso de PHP com Programação Orientada a Objetos
 ## Curso em Vídeo (Gustavo Guanabara)
-###Lista de aulas
+### Lista de aulas
 
 Aula 02 – Criando classes e objetos em PHP  
 Aula 03 – Configurando visibilidade de atributos e métodos  
